@@ -1,0 +1,5 @@
+{
+  "name": "Telco Game Indonesia",
+  "description": "A strategic board game where you lead a major Indonesian Telco (Telkomsel, IOH, or XLSmartfren). Manage CAPEX/OPEX, deploy 4G/5G networks across the archipelago, and battle for market dominance.",
+  "requestFramePermissions": []
+}
